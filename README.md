@@ -34,7 +34,7 @@ I welcome any feedback, suggestions, or contributions! Feel free to open an issu
 
 ## About Me
 
-I'm an aspiring web developer who is passionate about creating user-friendly and visually appealing web experiences. Connect with me on [LinkedIn](https://www.linkedin.com/in/your-username) to stay updated on my journey.
+I'm an aspiring web developer who is passionate about creating user-friendly and visually appealing web experiences. Connect with me on [LinkedIn](https://www.linkedin.com/in/Muhammad-Saim-Nomani) to stay updated on my journey.
 
 Thank you for checking out the Omni-Food project!
 
